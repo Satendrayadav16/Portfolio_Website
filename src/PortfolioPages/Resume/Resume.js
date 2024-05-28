@@ -139,6 +139,13 @@ export default function Resume(props) {
           toDate={"11/2023"}
         />
 
+        <ResumeHeading
+          heading={"Navya Advisors Pvt. Ltd."}
+          subHeading={"React Developer"}
+          fromDate={"11/2023"}
+          toDate={"Present"}
+        />
+
         <div className="experience-description">
           <span className="resume-description-text">
             Work as a Front-end programmer
