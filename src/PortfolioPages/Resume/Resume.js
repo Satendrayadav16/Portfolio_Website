@@ -135,8 +135,8 @@ export default function Resume(props) {
         <ResumeHeading
           heading={"Nep Innovation Technology Pvt. Ltd."}
           subHeading={"React Developer"}
-          fromDate={"01/2023"}
-          toDate={"10/2023"}
+          fromDate={"03/2022"}
+          toDate={"11/2023"}
         />
 
         <div className="experience-description">
